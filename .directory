@@ -1,0 +1,9 @@
+[Dolphin]
+PreviewsShown=true
+Timestamp=2015,6,8,8,31,40
+Version=3
+ViewMode=1
+VisibleRoles=Details_text,Details_size,Details_date,Details_tags,CustomizedDetails
+
+[Settings]
+HiddenFilesShown=true

@@ -1,0 +1,6 @@
+#!/bin/sh
+#Make sure to create link home/$USER/.config/filezilla to ./../PortableApps_UserData/filezilla/
+filezilla
+#Other Code
+ # cp ./fzdefaults.xml $HOME/.filezilla/
+ # ./share/applications/filezilla.desktop
