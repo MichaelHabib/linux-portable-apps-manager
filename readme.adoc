@@ -1,0 +1,6 @@
+= Linux Portable Apps Manager
+Currently, this is just a collection of scripts to start mutiple profiles of the same software. The goal is to develop it to a full portable apps manager like PortableApps.com.
+
+== Features:
+- File formats are : SoftwareName_ProfileName.sh
+- Creating a symbolic link to the SoftwareName_default.sh file with the name SoftwareName_NewProfileName.sh and launching the new link will open NewProfileName and possibly create it if it doesnt exisit. 
