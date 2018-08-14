@@ -1,1 +1,1 @@
-/home/michael/_storage-ssd3/PortableApps_ubuntu/PortableApps_Menu/Thunderbird_default.sh
+./Thunderbird_default.sh
